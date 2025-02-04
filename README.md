@@ -1,6 +1,7 @@
  Hi👋,I'm MANOBALA.S
 
-![Manobala   S manovijay383@gmail com](https://github.com/user-attachments/assets/32954664-5a47-45ef-9c41-c0abb731020a)
+![Manobala   S manovijay383@gmail com (1)](https://github.com/user-attachments/assets/3a5b7cfe-10f4-4067-9dc3-bd438dbbe6fc)
+
 🌟 About Me
 
 🔭 I’m currently working on: Enhancing my verification skills through hands-on projects in VLSI
