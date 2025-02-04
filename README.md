@@ -1,8 +1,7 @@
  Hi👋,I'm MANOBALA.S
 
-
-
--🌟 About Me
+![Manobala   S manovijay383@gmail com](https://github.com/user-attachments/assets/32954664-5a47-45ef-9c41-c0abb731020a)
+🌟 About Me
 🔭 I’m currently working on: Enhancing my verification skills through hands-on projects in VLSI
 🌱 I’m currently learning: Advanced concepts in SystemVerilog and UVM
 👯 I’m looking to collaborate on: Digital design and verification projects
