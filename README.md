@@ -10,7 +10,11 @@
 
 👯 I’m looking to collaborate on: Digital design and verification projects
 
-🤔 I’m looking for help with: Job referrals in VLSI companies
+🚀 Started my professional journey in the VLSI industry
+
+🔍 Still exploring, learning & contributing where I can
+
+📬 Open to connect and collaborate on VLSI topics
 
 💬 Ask me about: VLSI verification, Verilog, SystemVerilog, and UVM
 
